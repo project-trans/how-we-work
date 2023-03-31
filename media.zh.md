@@ -26,6 +26,6 @@ Discord 性质不同，规则另行规定，见 [社区准则](https://transgend
 ## FtM.wiki
 
 - <https://twitter.com/FtMwiki>
-- <http://m.cmx.im/@FtMwikiJapan>
+- <http://m.cmx.im/@FtMwiki>
 
 由 FtM.wiki 人员单独负责。
