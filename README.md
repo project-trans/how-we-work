@@ -1,6 +1,4 @@
-# Workflow Open
+# 我们如何工作
 
-工作方式公示
-
-- [MtF wiki](mtf-wiki.zh.md) (Chinese)
-- [社交媒体](media.zh.md) (Chinese)
+- [MtF.wiki](mtf-wiki.zh.md) (中文)
+- [社交媒体](media.zh.md) (中文)
