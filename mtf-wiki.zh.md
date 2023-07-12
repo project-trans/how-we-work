@@ -32,7 +32,6 @@
 [@Bersella-AI](https://github.com/Bersella-AI)
 
 医疗资源（Psycho、HRT）：
-[@Rinfair-CSP-A016](https://github.com/Rinfair-CSP-A016)
 [@septs](https://github.com/septs)
 [@saeziae](https://github.com/saeziae)
 
